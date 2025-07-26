@@ -13,4 +13,4 @@
 
 **Run**
 
-`$ python train.py`
+`$ python run.py`
